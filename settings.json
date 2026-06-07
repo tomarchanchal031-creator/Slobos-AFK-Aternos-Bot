@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "superop",
   "bot-account": {
-    "username": "Super273",
+    "username": "Super147",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "nova_smp_s2.aternos.me",
+    "ip": "Nova_smp_s2.aternos.me",
     "port": 14632,
     "version": "",
     "try-creative": false
@@ -77,7 +77,7 @@
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": false
     }
   },
